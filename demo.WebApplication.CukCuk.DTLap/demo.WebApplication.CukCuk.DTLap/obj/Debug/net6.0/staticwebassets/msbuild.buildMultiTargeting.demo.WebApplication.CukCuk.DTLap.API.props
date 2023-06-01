@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\demo.WebApplication.CukCuk.DTLap.API.props" />
+</Project>

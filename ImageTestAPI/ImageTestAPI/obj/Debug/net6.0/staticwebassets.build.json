@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GnTdCEQSzxsOxMEoXd+ma9FPKIDqmcvbAGMfptdFvBM=",
+  "Source": "ImageTestAPI",
+  "BasePath": "_content/ImageTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

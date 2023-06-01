@@ -1,0 +1,17 @@
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.csproj.AssemblyReference.cache
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.AssemblyInfoInputs.cache
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.AssemblyInfo.cs
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.csproj.CoreCompileInputs.cache
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.BL.deps.json
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.BL.dll
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.BL.pdb
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.DTLap.Common.dll
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.DTLap.DL.dll
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.DTLap.Common.pdb
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\bin\Debug\net6.0\demo.WebApplication.CukCuk.DTLap.DL.pdb
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.csproj.CopyComplete
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.dll
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\refint\demo.WebApplication.CukCuk.BL.dll
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\demo.WebApplication.CukCuk.BL.pdb
+D:\.DTLap_GD2\demo.WebApplication.CukCuk.DTLap\demo.WebApplication.CukCuk.BL\obj\Debug\net6.0\ref\demo.WebApplication.CukCuk.BL.dll

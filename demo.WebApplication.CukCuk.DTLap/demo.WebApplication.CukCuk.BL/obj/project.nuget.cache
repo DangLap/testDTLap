@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TVTRZr12W0cYgKRR/CSQFY4LoYsQOKntLyWYujnISlTo4qs0VEVJBPq+oDwHGxob2j9z2rIlQsfsG1pZ1nEGQ==",
+  "success": true,
+  "projectFilePath": "D:\\.DTLap_GD2\\demo.WebApplication.CukCuk.DTLap\\demo.WebApplication.CukCuk.BL\\demo.WebApplication.CukCuk.DTLap.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
